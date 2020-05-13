@@ -7,6 +7,6 @@ def hello(array)
     i += 1
   end
 end
-#
+#v
 
 hello(["Tim", "Tom", "Jim"]) { |name| puts "Hi, #{name}" }
